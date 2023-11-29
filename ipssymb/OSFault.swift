@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  OSFault.swift
 //  ipssymb
 //
 //  Created by Aleksandr Kazak-Kazakevich on 29.11.2023.
@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+struct OSFault {
+    let process: String
+}
 
+extension OSFault: Codable { }

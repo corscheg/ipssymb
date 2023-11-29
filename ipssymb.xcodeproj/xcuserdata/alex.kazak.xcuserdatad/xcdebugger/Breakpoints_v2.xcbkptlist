@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AE3F2C3E-965D-4313-A2FE-6C4749CFF039"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C18C0DD-758B-4A6E-A47B-CF3EB9045E1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ipssymb/App.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "main()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C18C0DD-758B-4A6E-A47B-CF3EB9045E1E - ea027f7fa546a96c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ipssymb.App.main() -&gt; ()"
+                  moduleName = "ipssymb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex.kazak/Developer/Projects/ipssymb/ipssymb/App.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2996">
+               </Location>
+               <Location
+                  uuid = "6C18C0DD-758B-4A6E-A47B-CF3EB9045E1E - ea027f7fa546a96c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ipssymb.App.main() -&gt; ()"
+                  moduleName = "ipssymb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex.kazak/Developer/Projects/ipssymb/ipssymb/App.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "3052">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
